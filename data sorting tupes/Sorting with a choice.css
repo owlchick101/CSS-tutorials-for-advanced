@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sorting with a choice {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+
+.sorting with a choice {
+  position: relative;
+}
+
+.text--nowrap {
+  white-space: nowrap;
+}
