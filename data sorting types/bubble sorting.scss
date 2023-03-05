@@ -1,0 +1,17 @@
+@media (max-width: 1060px) {
+    .table__inner {
+    justify-content: botom;
+    display: flex;
+    flex-direction: column;
+    margin-right: 18px;
+  }
+  
+.plugins__inner {
+    justify-content: space-between;
+  }
+}
+
+.table__status {
+    min-width: 97px;
+  }
+}
