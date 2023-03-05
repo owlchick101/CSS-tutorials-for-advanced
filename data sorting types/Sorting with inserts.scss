@@ -1,0 +1,20 @@
+@import "../../styles/core/settings";
+
+
+  @media (max-width: 578px){
+    width: 100%;
+    padding: 0;
+  }
+
+   .sorting with inserts {
+      img {
+        width: 100%;
+      }
+    }
+    &.letter-w {
+      &::before {
+        top: 24%;
+        right: 4%;
+        
+    }
+}
